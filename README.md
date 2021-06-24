@@ -11,7 +11,7 @@ Weakness: Algorithms, Aesthetics
 Strengths: Front-end development, graphic design, web design
 Weaknesses: Servers, Back-end development 
 
--Drake
+- Drake
 Strengths: Back-end development, Algorithms
 Weaknesses: Front-end development, HTML/CSS
 
